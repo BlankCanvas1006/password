@@ -1,4 +1,5 @@
 https://blankcanvas1006.github.io/password/
+https://github.com/BlankCanvas1006/password
 ![](password_sc.png)
 # Password Generator 1.0
 
